@@ -1,2 +1,2 @@
-# Image-Classificaiton-
+# Image-Classificaiton
 Image Classificaiton with Keras
